@@ -1,0 +1,23 @@
+# Virtual Environment
+venv/
+.venv/
+env/
+
+# Python
+__pycache__/
+*.pyc
+.env
+
+# Node.js
+node_modules/
+dist/
+build/
+.ds_store
+
+# Cloned Repos & FAISS Store Data
+data/
+faiss_index/
+
+# IDE / Editor
+.vscode/
+.idea/
